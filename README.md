@@ -8,7 +8,7 @@ MATLAB code for the graph matching algorithm applied to the unlabeled sensing (U
 
 ## MATLAB files description
 `make_r_local_permutation.m`: inputs are r, n; returns  an r-local permutation of size nxn with each block of size rxr. 
-'proj_r_by_r': input cost matrix C; return permutation P such that P = argmin <C,P>.
+`proj_r_by_r`: input cost matrix C; return permutation P such that P = argmin <C,P>.
 `munkres.m`: the projection onto doubly stochastic matrix P = argmin <C,P> is by the Hungarian assignment algorithm.
 
 
