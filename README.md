@@ -13,7 +13,7 @@ MATLAB code for the graph matching algorithm applied to the unlabeled sensing (U
 
 `proj_r_by_r`: input cost matrix C; return permutation P such that P = argmin <C,P>.
 
-`munkres.m`: the minimization P = argmin <C,P> is conducted by the Hungarian assignment algorithm.
+`munkres.m`: the minimization P = argmin <C,P> is by the Hungarian assignment algorithm.
 
 
 ## References
