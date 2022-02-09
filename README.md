@@ -1,4 +1,4 @@
-# Graph Matching / Quadratic Assignment Problem for unlabeled sensing
+# Graph Matching / Quadratic Assignment Problem (QAP) for unlabeled sensing
 MATLAB code for the graph matching algorithm applied to the unlabeled sensing (ULS) problem [1]. The algorithm is applied to the setup when the unknown permutation is r-local. This code was written by Ahmed Ali Abbasi as part of a larger research project on ULS, and counts towards the partial fulfilment of research requirement for the PhD program at ECE department, Tufts University. The code was tested by Professor [Abiy Tasissa](http://sites.tufts.edu/atasissa/) and Professor  [Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/). 
 
 ## Instructions
